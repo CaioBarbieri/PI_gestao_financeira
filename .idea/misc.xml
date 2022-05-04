@@ -3,12 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-<<<<<<< HEAD
-        <entry key="..\:/Users/caio.abarbieri/AndroidStudioProjects/PI_gestao_financeira/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1975" />
-        <entry key="..\:/Users/caio.abarbieri/AndroidStudioProjects/PI_gestao_financeira/app/src/main/res/layout/activity_main.xml" value="0.33" />
-=======
-        <entry key="..\:/Users/Senac/AndroidStudioProjects/PI_gestao_financeira/app/src/main/res/layout/fragment_calculadora.xml" value="0.4" />
->>>>>>> a435ebf (Initial commit)
+        <entry key="..\:/Users/Senac/AndroidStudioProjects/PI_gestao_financeira/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.1" />
+        <entry key="..\:/Users/Senac/AndroidStudioProjects/PI_gestao_financeira/app/src/main/res/layout/activity_toolbar_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Senac/AndroidStudioProjects/PI_gestao_financeira/app/src/main/res/layout/card_desejos.xml" value="0.25" />
+        <entry key="..\:/Users/Senac/AndroidStudioProjects/PI_gestao_financeira/app/src/main/res/layout/fragment_ajuda.xml" value="0.2" />
+        <entry key="..\:/Users/Senac/AndroidStudioProjects/PI_gestao_financeira/app/src/main/res/layout/fragment_calculadora.xml" value="0.25" />
+        <entry key="..\:/Users/Senac/AndroidStudioProjects/PI_gestao_financeira/app/src/main/res/layout/fragment_configuracoes.xml" value="0.2" />
+        <entry key="..\:/Users/Senac/AndroidStudioProjects/PI_gestao_financeira/app/src/main/res/layout/fragment_lista_desejos.xml" value="0.19692307692307692" />
+        <entry key="..\:/Users/Senac/AndroidStudioProjects/PI_gestao_financeira/app/src/main/res/layout/fragment_sobre.xml" value="0.2" />
+        <entry key="..\:/Users/Senac/AndroidStudioProjects/PI_gestao_financeira/app/src/main/res/menu/toolbarmenu.xml" value="0.5" />
       </map>
     </option>
   </component>
